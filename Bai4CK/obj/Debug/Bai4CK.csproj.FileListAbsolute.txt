@@ -1,0 +1,16 @@
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\bin\Debug\Bai4CK.exe.config
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\bin\Debug\Bai4CK.exe
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\bin\Debug\Bai4CK.pdb
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\bin\Debug\EntityFramework.dll
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\bin\Debug\EntityFramework.SqlServer.dll
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\bin\Debug\EntityFramework.xml
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\bin\Debug\EntityFramework.SqlServer.xml
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.csprojAssemblyReference.cache
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.Properties.Resources.resources
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.csproj.GenerateResource.cache
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.csproj.CoreCompileInputs.cache
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.csproj.CopyComplete
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.exe
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.pdb
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.View.ThongTinNhapKho.resources
+D:\DotNet\ThayPhuong\Bai4CK\Bai4CK\obj\Debug\Bai4CK.View.AddForm.resources
